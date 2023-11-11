@@ -50,13 +50,13 @@ MongoDB is widely used in various domains, including web development, content ma
 
 4. **CRUD Operations with MongoDB:**
 
-   - Teach how to create, read, update, and delete documents in MongoDB.
+   - Create, read, update, and delete documents in MongoDB.
    - Show how to use MongoDB shell commands and demonstrate CRUD operations in code.
 
 5. **Data Modeling and Schemas:**
 
    - Discuss the importance of data modeling in MongoDB.
-   - Explain how to design schemas for MongoDB collections, including field types and document structure.
+   - Design schemas for MongoDB collections, including field types and document structure.
 
 6. **Mongoose Introduction:**
 
@@ -65,7 +65,7 @@ MongoDB is widely used in various domains, including web development, content ma
 
 7. **Creating Models and Schemas with Mongoose:**
 
-   - Teach how to define schemas using Mongoose's schema definition methods.
+   - Define schemas using Mongoose's schema definition methods.
    - Show how to create models based on schemas for different collections.
 
 8. **Validation and Middleware:**
@@ -76,32 +76,27 @@ MongoDB is widely used in various domains, including web development, content ma
 9. **Querying MongoDB with Mongoose:**
 
    - Demonstrate how to query MongoDB data using Mongoose methods.
-   - Teach students to construct queries for filtering, sorting, and projecting data.
+   - Construct queries for filtering, sorting, and projecting data.
 
 10. **Security and Authentication:**
 
     - Cover MongoDB's security features, including authentication and role-based access control.
-    - Teach best practices for securing MongoDB deployments.
+    - Best practices for securing MongoDB deployments.
 
 11. **Transactions:**
 
     - Explain how to work with multi-document transactions in MongoDB.
-    - Show how to maintain data consistency in transactional operations.
+    - Maintain data consistency in transactional operations.
 
 12. **Deployment and Operations:**
 
     - Provide guidance on deploying MongoDB in various environments, including on-premises and cloud-based solutions.
-    - Teach how to monitor and maintain MongoDB clusters.
+    - Monitor and maintain MongoDB clusters.
 
 13. **Best Practices and Real-World Scenarios:**
 
-    - Share best practices for MongoDB development, performance optimization, and schema design.
-    - Discuss real-world use cases and scenarios where MongoDB is a suitable choice.
-
-14. **Hands-On Projects:**
-
-    - Encourage students to apply their knowledge by working on hands-on projects that involve MongoDB and Mongoose.
-    - Provide opportunities for students to build real-world applications using these technologies.
+    - Best practices for MongoDB development, performance optimization, and schema design.
+    - Real-world use cases and scenarios where MongoDB is a suitable choice.
 
 ## class recording
 
