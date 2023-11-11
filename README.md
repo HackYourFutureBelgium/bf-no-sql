@@ -12,71 +12,71 @@ MongoDB is one of the most popular and widely used NoSQL databases. It is an ope
 
 MongoDB is known for its key features:
 
--   **Schema Flexibility:** MongoDB allows for the storage of data without a fixed schema. Each document in a MongoDB collection can have different fields, providing great flexibility.
+- **Schema Flexibility:** MongoDB allows for the storage of data without a fixed schema. Each document in a MongoDB collection can have different fields, providing great flexibility.
 
--   **High Scalability:** MongoDB supports horizontal scaling through sharding, making it suitable for handling large volumes of data and high traffic applications.
+- **High Scalability:** MongoDB supports horizontal scaling through sharding, making it suitable for handling large volumes of data and high traffic applications.
 
--   **Rich Query Language:** MongoDB offers a powerful query language with support for filtering, sorting, and aggregation, making it easy to retrieve and manipulate data.
+- **Rich Query Language:** MongoDB offers a powerful query language with support for filtering, sorting, and aggregation, making it easy to retrieve and manipulate data.
 
--   **Geospatial Data Support:** MongoDB includes geospatial features, which are valuable for applications that require location-based data.
+- **Geospatial Data Support:** MongoDB includes geospatial features, which are valuable for applications that require location-based data.
 
--   **Replication and High Availability:** MongoDB supports data replication and automatic failover to ensure data availability and reliability.
+- **Replication and High Availability:** MongoDB supports data replication and automatic failover to ensure data availability and reliability.
 
--   **Open Source:** MongoDB is open-source, which means it's freely available and actively maintained by a vibrant community of developers.
+- **Open Source:** MongoDB is open-source, which means it's freely available and actively maintained by a vibrant community of developers.
 
 MongoDB is widely used in various domains, including web development, content management systems, data analytics, and more. Its document-based approach and support for horizontal scaling have made it a top choice for developers building modern applications that demand flexibility and performance.
 
--   [Learning Objectives](#learning-objectives): what you can expect to learn from
-    studying this material
--   [Suggested Study](./suggested-study.md): Helpful links for this module, useful
-    but not required.
+- [Learning Objectives](#learning-objectives): what you can expect to learn from
+  studying this material
+- [Suggested Study](./suggested-study.md): Helpful links for this module, useful
+  but not required.
 
 ## Learning Objectives
 
 1. **Understanding NoSQL Concepts:**
 
-    - Define what NoSQL databases are and how they differ from traditional SQL databases.
-    - Explain the advantages and disadvantages of using NoSQL databases like MongoDB.
+   - Define what NoSQL databases are and how they differ from traditional SQL databases.
+   - Explain the advantages and disadvantages of using NoSQL databases like MongoDB.
 
 2. **MongoDB Basics:**
 
-    - Introduce MongoDB as a document-oriented NoSQL database.
-    - Describe the BSON (Binary JSON) data format used in MongoDB.
+   - Introduce MongoDB as a document-oriented NoSQL database.
+   - Describe the BSON (Binary JSON) data format used in MongoDB.
 
 3. **Installation and Setup:**
 
-    - Provide instructions for installing MongoDB and setting up a development environment.
-    - Explain how to install and import the Mongoose library for Node.js.
+   - Provide instructions for installing MongoDB and setting up a development environment.
+   - Explain how to install and import the Mongoose library for Node.js.
 
 4. **CRUD Operations with MongoDB:**
 
-    - Teach how to create, read, update, and delete documents in MongoDB.
-    - Show how to use MongoDB shell commands and demonstrate CRUD operations in code.
+   - Teach how to create, read, update, and delete documents in MongoDB.
+   - Show how to use MongoDB shell commands and demonstrate CRUD operations in code.
 
 5. **Data Modeling and Schemas:**
 
-    - Discuss the importance of data modeling in MongoDB.
-    - Explain how to design schemas for MongoDB collections, including field types and document structure.
+   - Discuss the importance of data modeling in MongoDB.
+   - Explain how to design schemas for MongoDB collections, including field types and document structure.
 
 6. **Mongoose Introduction:**
 
-    - Introduce Mongoose as an Object Data Modeling (ODM) library for MongoDB.
-    - Explain how Mongoose simplifies interactions with MongoDB by providing schema and model features.
+   - Introduce Mongoose as an Object Data Modeling (ODM) library for MongoDB.
+   - Explain how Mongoose simplifies interactions with MongoDB by providing schema and model features.
 
 7. **Creating Models and Schemas with Mongoose:**
 
-    - Teach how to define schemas using Mongoose's schema definition methods.
-    - Show how to create models based on schemas for different collections.
+   - Teach how to define schemas using Mongoose's schema definition methods.
+   - Show how to create models based on schemas for different collections.
 
 8. **Validation and Middleware:**
 
-    - Explain the concept of validation in MongoDB and how to use Mongoose's built-in validators.
-    - Discuss the use of middleware functions in Mongoose for pre and post document operations.
+   - Explain the concept of validation in MongoDB and how to use Mongoose's built-in validators.
+   - Discuss the use of middleware functions in Mongoose for pre and post document operations.
 
 9. **Querying MongoDB with Mongoose:**
 
-    - Demonstrate how to query MongoDB data using Mongoose methods.
-    - Teach students to construct queries for filtering, sorting, and projecting data.
+   - Demonstrate how to query MongoDB data using Mongoose methods.
+   - Teach students to construct queries for filtering, sorting, and projecting data.
 
 10. **Security and Authentication:**
 
