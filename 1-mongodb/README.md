@@ -1,4 +1,4 @@
-# MongoDB README
+# MongoDB
 
 ## Introduction
 
