@@ -111,4 +111,5 @@ MongoDB is widely used in various domains, including web development, content ma
 
 ### Week2
 
+- [Day 6](https://youtu.be/yLy2T6Ss57g)
 </details>
