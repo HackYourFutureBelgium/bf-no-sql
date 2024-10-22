@@ -1,55 +1,16 @@
 # Set up
 
-## Installing mongosh
+## Create an account on MongoDB Atlas
 
-### For Windows
+1. [Click here](https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core-high-int_prosp-brand_gic-null_emea-be_ps-all_dv-all_eng_lead&utm_term=mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=19637893114&adgroup=151404766691&cq_cmp=19637893114&gad_source=1&gclid=Cj0KCQjw99e4BhDiARIsAISE7P_lewFgq9M6PT5ktPykWASG069zODGbCggO75VRev2dHdMosNWg9RcaArjpEALw_wcB)
 
-1. Visit the [MongoDB Download Center](https://www.mongodb.com/try/download/shell) and scroll down to the "MongoDB Shell" section.
+2. Create an account.
 
-2. Choose the version of MongoDB Shell that matches your system architecture (32-bit or 64-bit) and click the "Download" button.
+## Installing mongoDB community edition
 
-3. Run the downloaded installer and follow the installation wizard.
+1. [Install MongoDB Community Edition](https://www.mongodb.com/docs/manual/administration/install-community/)
 
-4. After installation, you can open the MongoDB Shell by running "mongosh" in the command prompt or PowerShell.
-
-### For Mac (using Homebrew)
-
-1. Open the Terminal.
-
-2. Run the following command to install mongosh using Homebrew:
-
-   ```bash
-   brew tap mongodb/brew
-   brew install mongosh
-   ```
-
-3. Once the installation is complete, you can run "mongosh" from the terminal to start using it.
-
-### For Ubuntu
-
-1. Open the Terminal.
-
-2. Add the MongoDB repository to your sources list by running:
-
-   ```bash
-   echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/5.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-5.0.list
-   ```
-
-   Make sure to replace "focal" with your Ubuntu version if it's different.
-
-3. Update the package list with:
-
-   ```bash
-   sudo apt update
-   ```
-
-4. Install mongosh with:
-
-   ```bash
-   sudo apt install -y mongosh
-   ```
-
-5. You can start the MongoDB Shell by running "mongosh" in the terminal.
+2. Choose depending on your operating system.
 
 ## Installing MongoDB Compass
 
